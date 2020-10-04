@@ -10,7 +10,7 @@ The following packages are required:
  - Terraform v0.13.4
 
 
-### Preparetion:
+### Preparation:
 
  - Change "Login information" about cisco APIC controller at the begin of variable.tf file.
  - Prepare terraform environment:
