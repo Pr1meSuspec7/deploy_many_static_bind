@@ -1,0 +1,6 @@
+{
+  "registry.terraform.io/ciscodevnet/aci": {
+    "hash": "h1:dlGBxorI5sP2btRPG69cI+HgLSa+bELczRlmuHy+y+M=",
+    "version": "0.4.1"
+  }
+}
